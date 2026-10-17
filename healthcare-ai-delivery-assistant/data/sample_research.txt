@@ -1,0 +1,7 @@
+SYNTHETIC DEMONSTRATION NOTES — NOT A SCIENTIFIC SOURCE OR CLINICAL GUIDANCE.
+EGFR is a receptor tyrosine kinase studied in non-small-cell lung cancer research.
+Some research programs stratify experimental analyses by EGFR variants, including L858R and exon 19 deletions.
+Binding affinity prediction models may use molecular fingerprints and curated interaction datasets.
+Model evaluation should separate training and test data and examine potential data leakage.
+A high R-squared score on a held-out dataset does not establish clinical effectiveness.
+Research assistants should cite primary publications and communicate limitations.
